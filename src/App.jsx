@@ -1,5 +1,5 @@
 import "./App.css";
-// import Community from "./components/huddleheading/huddlefans";
+import Community from "./components/huddleheading/huddlefans";
 import HuddleHeading from "./components/huddleheading/huddleheading";
 import { TailwindIndicator } from "./components/tailwind/tailwind";
 
@@ -8,7 +8,7 @@ function App() {
     <>
       <div>
         <HuddleHeading />
-        {/* <Community /> */}
+        <Community />
         <TailwindIndicator />
       </div>
     </>
