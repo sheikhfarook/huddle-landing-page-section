@@ -3,6 +3,7 @@ import Community from "./components/huddleheading/huddlefans";
 import HuddleHeading from "./components/huddleheading/community/huddleheading";
 import { TailwindIndicator } from "./components/tailwind/tailwind";
 import CommunityPopular from "./components/huddleheading/community/communitypopularlity";
+import Grow from "./components/main/grow";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <HuddleHeading />
         <Community />
         <CommunityPopular />
+        <Grow />
         <TailwindIndicator />
       </div>
     </>
