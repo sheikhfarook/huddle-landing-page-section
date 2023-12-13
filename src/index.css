@@ -4,3 +4,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* .backgroundimag {
+  background-image: url(../src/assets/images/bg-footer-top-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+} 
+  /* background-position: */
