@@ -8,11 +8,11 @@ import twitter from "../../assets/images/square-twitter.svg";
 const Details = () => {
   return (
     // <div className="bg-black">
-    <div className="mt-[20rem] bg-black text-white">
+    <div className="mt-[20rem]  md:bg-black text-white max-sm:bg-black">
       <div className="flex lg:p-32 max-sm:flex-col-reverse max-sm:mx-10 max-sm:gap-20">
         <div className="space-y-10 ">
           <img className="text-white max-sm:w-[13rem]" src={logo} alt="" />
-          <p className="w-3/5 font-opensans max-sm:w-[22rem]">
+          <p className="w-3/5 font-opensans max-sm:w-full">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris
             nulla quam, hendrerit lacinia vestibulum a, ultrices quis sem.
           </p>
@@ -35,7 +35,7 @@ const Details = () => {
         <div className="space-y-10">
           <div className="space-y-8">
             <h3 className="font-opensans font-[700] text-2xl">NEWSLETTER</h3>
-            <p className="w-7/12 font-opensans max-sm:w-[22rem]">
+            <p className="w-7/12 font-opensans max-sm:w-full">
               To recieve tips on how to grow your community, sign up to our
               weekly newsletter. We’ll never send you spam or pass on your email
               address

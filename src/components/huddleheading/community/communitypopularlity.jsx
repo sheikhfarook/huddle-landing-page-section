@@ -5,7 +5,7 @@ const CommunityPopular = () => {
   return (
     <div className="">
       <img
-        className="mt-28 justify-center m-auto w-9/12 max-sm:mx-16"
+        className="mt-28 justify-center m-auto w-9/12 max-sm:ml-12"
         src={huddles}
         alt=""
       />
