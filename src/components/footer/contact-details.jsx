@@ -9,7 +9,7 @@ const Details = () => {
   return (
     <div className="backgroundimag">
       <div className="mt-[20rem] bg-black text-white">
-        <div className="flex p-32 ">
+        <div className="flex  p-32 max-sm:flex-col">
           <div className="space-y-10">
             <img className="text-white" src={logo} alt="" />
             <p className="w-3/5 font-opensans">
