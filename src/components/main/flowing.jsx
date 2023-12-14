@@ -7,7 +7,7 @@ const Conversation = () => {
       <div className="max-sm:h-full max-sm:w-full max-sm:mr-7 ">
         <img src={flowing} alt="" />
       </div>
-      <div className="m-auto text-[#00252E] lg:mt-0 md:mt-28 max-sm:mt-20">
+      <div className="text-[#00252E] m-auto md:mt-28 max-sm:mt-20">
         <h2 className="font-poppins text-4xl lg:mx-0 md:mx-[2rem] max-sm:mx-[25px] max-sm:text-2xl">
           Flowing Conversations
         </h2>

@@ -5,7 +5,7 @@ const Grow = () => {
     <div
       className="flex text-[#00252E] mt-[20rem] m-32 lg:flex-row 
     md:flex-col-reverse max-sm:flex-col-reverse max-sm:mx-1.5">
-      <div className="m-auto md:mt-28 max-sm:mt-20 ">
+      <div className="md:mt-28 max-sm:mt-20 ">
         <h2 className="font-poppins text-[46px] lg:mx-0 md:mx-[5rem] max-sm:mx-[90px] max-sm:text-2xl">
           Grow Together
         </h2>

@@ -5,7 +5,7 @@ const Users = () => {
     <div
       className="flex text-[#00252E] gap-10 mt-[20rem] m-32 
       lg:flex-row  md:flex-col-reverse max-sm:flex-col-reverse max-sm:mx-1">
-      <div className="m-auto md:mt-28">
+      <div className="md:mt-28">
         <h2 className="font-poppins text-[46px] lg:mx-0 md:mx-[8rem] max-sm:mx-[101px] max-sm:text-3xl">
           Your Users
         </h2>

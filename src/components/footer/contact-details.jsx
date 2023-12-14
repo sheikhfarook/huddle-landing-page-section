@@ -7,8 +7,8 @@ import twitter from "../../assets/images/square-twitter.svg";
 
 const Details = () => {
   return (
-    // <div className="bg-black">
-    <div className="mt-[20rem]  md:bg-black text-white max-sm:bg-black">
+    // <div className="background-image">
+    <div className="mt-[20rem] bg-black text-white">
       <div className="flex lg:flex-row lg:mx-0 lg:gap-0 lg:p-32 md:flex-col-reverse md:mx-20 md:gap-20 max-sm:flex-col-reverse max-sm:mx-10 max-sm:gap-20">
         <div className="space-y-10 ">
           <img

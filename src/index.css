@@ -5,9 +5,11 @@
 @tailwind components;
 @tailwind utilities;
 
-/* .backgroundimag {
-  background-image: url(../src/assets/images/bg-footer-top-desktop.svg);
+.background-image {
+  /* height: 100vh; */
+  width: 100rem;
+  background-image: url(../src/assets/images/waveimage.svg);
   background-repeat: no-repeat;
-  background-size: 100%;
-} 
-  /* background-position: */
+  background-position: fixed bottom;
+  background-size: 100rem;
+}
